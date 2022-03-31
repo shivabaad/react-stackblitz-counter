@@ -66,10 +66,7 @@ class Counter extends Component {
     console.log(product)
     this.setState({count: this.state.count+1})
   }
-  
-  
-  
-  
+    
 }
 
 export default Counter;
